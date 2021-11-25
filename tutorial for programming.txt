@@ -1,0 +1,18 @@
+English(UK)
+(Английский)
+(Англійська)
+hello everybody,i will teach you how to set up sublime(popular it's a 3 version) to work with programming languages.
+ The  first is to download it from the official site (yes, you will have to remove some of the notifications yourself).
+ Second,it's the download package control(located in preferences and choose the package control).And write install package(nothing else) and choose this option.Farther write emmet and you then you will see a large list of the fact that the emmet package is installed and then you write the command to launch your programming language and work with it.(choose file,new file,save as.And choose your folder and write name your file and file format)(programming language format.HTML-.html;Python-.py)Everything is ready to go
+ Russia(RU) 
+ (Русский)
+ (Російська)
+ Привет всем,я научу вас,как настроить sublime(популярная версия это 3) для работы с языками программирования.
+  Первое-скачать его с официального сайта (да, некоторые уведомления придется удалить самостоятельно).
+  Во-вторых, установить package control (находится в preferences и выберите package control).И напишите package install(ничего больше) и выберите эту опцию.Далее напишите emmet и нажмите enter чтобы выбрать его,и вы увидите большой список того, что пакет emmet установлен,все вы настроили sublime для работы с ним.(дальше вы выбираете file,new file дальше выбираете save as.Выбираете куда сохранять)дальше пишите название вашего файла,и формат(ФОРМАТ ФАЙЛА НАДО ОБЯЗАТЕЛЬНО ПИСАТЬ ПОСЛЕ НАЗВАНИЯ ФАЙЛА,точка после названия файла тоже обязательна)(python-.py;html-.html).
+  Ukraine(UA)
+  (Українська)
+  (Украинский)
+  Привіт всім,я навчу вас,як налаштувати sublime(популярна версія 3) для роботи з мовами програмування.
+  Перше-завантажити його з офіційного сайту (так, деякі повідомлення доведеться видалити самостійно).
+  По-друге, встановити package control (знаходиться в preferences і виберіть package control).І напишіть package install (нічого більше) і виберіть цю опцію,далі вибираєте emmet і встановлюєте його.Все ви налаштували sublime для роботи з ним.(далі вибираєте File,new file далі вибираєте save as.Назва файлу,формат файлу)(ФОРМАТ ФАЙЛУ ТРЕБА ОБОВ'ЯЗКОВО ПИСАТИ ПІСЛЯ НАЗВИ ФАЙЛУ!)(формат мов програмування.HTML-.html,python-.py)
